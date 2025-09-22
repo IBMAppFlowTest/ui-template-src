@@ -40,5 +40,5 @@ public class ThirdSuiteTest {
     public void errorTest3() throws Exception {
         throw new Exception("Throwing an error");
     }
-    End Failing tests */
+    End failing tests */
 }

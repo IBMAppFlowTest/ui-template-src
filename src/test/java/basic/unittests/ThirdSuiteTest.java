@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.fail;
 
 public class ThirdSuiteTest {
 
-    # Begin passing tests
+    // Begin passing tests
     @Test
     public void thirdTest1() {
         System.out.println("thirdTest1 successful!");
@@ -21,7 +21,7 @@ public class ThirdSuiteTest {
     public void thirdTest3() {
         System.out.println("thirdTest3 successful!");
     } 
-    # End passing tests
+    // End passing tests
 
     /* Begin failing tests 
     @Disabled
